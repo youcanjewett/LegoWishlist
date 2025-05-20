@@ -1,0 +1,52 @@
+[
+  {
+    "image": {
+      "thumbnail": "/images/image-waffle-thumbnail.jpg",
+      "desktop": "/images/jaws.jpg"
+    },
+    "name": "Jaws",
+    "category": "Ideas",
+    "price": 149.99,
+    "quantity": 0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/image-creme-brulee-thumbnail.jpg",
+      "desktop": "/images/wednesday-dorm.jpg"
+    },
+    "name": "Wednesday & Enid's Dorm Room",
+    "category": "LEGO Wednesday Sets",
+    "price": 89.99,
+    "quantity": 0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/image-macaron-thumbnail.jpg",
+      "desktop": "/images/tudor-corner.jpg"
+    },
+    "name": "Tudor Corner",
+    "category": "LEGO Icons",
+    "price": 229.99,
+    "quantity": 0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/image-tiramisu-thumbnail.jpg",
+      "desktop": "/images/pac-man.jpg"
+    },
+    "name": "PAC-MAN",
+    "category": "LEGO Icons",
+    "price": 269.99,
+    "quantity": 0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/image-baklava-thumbnail.jpg",
+      "desktop": "/images/sherlock-holmes.jpg"
+    },
+    "name": "Sherlock Holmes: Book Nook",
+    "category": "LEGO Icons",
+    "price": 129.99,
+    "quantity": 0
+  }
+]
